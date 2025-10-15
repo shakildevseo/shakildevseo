@@ -16,7 +16,7 @@ Skills: MongoDB / Express.js / Node.js / React / Javascript / Tailwind CSS /  Bo
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap , Tailwind CSS, Javascript & Other**
 
-- 📫 How to reach me **shakilhossain.developer@gmail.com**
+- 📫 How to reach me **shakilhossain*****@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/shakildevseo](https://lnk.bio/shakildevseo)
 
@@ -109,7 +109,7 @@ Skills: MongoDB / Express.js / Node.js / React / Javascript / Tailwind CSS /  Bo
 </a>
 
 
-<a href="https://www.facebook.com/shakildevseo" target="_blank"> -->
- <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" 
 
-</div>
+ 
+
+</div> -->
